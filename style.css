@@ -1,0 +1,26 @@
+body {
+	background-position:;
+	font-family: "Fjalla One";
+
+}
+
+h1 {
+	font-size: 4em;
+	font-weight: 700;
+}
+
+h3	{
+	font-weight:700;
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+
+#content {
+	text-align: center;
+	padding-top: 25%;
+	padding-bottom: 25%;
+	color: white;
+	background-image: url(https://images.unsplash.com/photo-1540195822871-8abe4937846b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0ba28ce42aafbe17345d848c3fbf76be&auto=format&fit=crop&w=3367&q=80);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
